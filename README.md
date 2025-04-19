@@ -1,4 +1,4 @@
-Simple Interest Calculator
+Simple Interest Calculator - Forked
 This project is a simple interest calculator implemented in a shell script (simple-interest.sh). It allows users to calculate the simple interest on a given principal amount, interest rate, and time period.
 
 How to Run
